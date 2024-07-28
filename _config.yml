@@ -30,7 +30,9 @@ twitter_username: normaaps
 github_username: normaps
 
 # Build settings
-theme: minima
+theme: tale
+permalink: /:year-:month-:day/:title
+paginate: 5
 plugins:
   - jekyll-feed
 # Exclude from processing.
