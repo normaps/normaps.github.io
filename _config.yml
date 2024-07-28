@@ -28,6 +28,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: https://normaps.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: normaaps
 github_username: normaps
+# Author
+author:
+  name: Norma Puspitasari
+  url: https://normaps.github.io
+  email: normapus1@gmail.com
 
 # Build settings
 remote_theme: chesterhow/tale
